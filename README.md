@@ -1,4 +1,4 @@
-# SEP_A21
+# SEP_A21 - StudentIncubator
 Written as a 3rd semester project in autumn of 2021 for software engineering at VIA university college, campus Horsens, DK.
 
 The requirements were to create a heterogeneous system that utilizes at least two different communication technologies and includes server-to-server communication.
